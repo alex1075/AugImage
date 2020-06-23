@@ -1,0 +1,7 @@
+imgaug
+numpy
+pandas
+glob
+xml.etree.ElementTree
+shutils
+imageio
